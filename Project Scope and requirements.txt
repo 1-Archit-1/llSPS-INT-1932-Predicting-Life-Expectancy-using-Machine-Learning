@@ -1,0 +1,37 @@
+Predicting Life Expectancy Using Machine Learning
+ 
+
+
+Project Summary:-
+
+Forming a regression model while considering data from a period of 2000 to 2015 as provided by the World Health Organization (WHO) , to predict the life expectancy of countries. 
+This study will focus on immunization factors, mortality factors, economic factors, social factors and other health related factors as well. 
+Since the observations this dataset are based on different countries, it will be easier for a country to determine the predicting factor which is contributing to lower value of life expectancy. This will help in suggesting to a country which area should be given importance in order to efficiently improve the life expectancy of its population.
+ 
+
+
+Project Requirements:-
+
+1. Functional Requirements:-
+Given a set of data including immunization factors, mortality factors, economic factors, social factors etc , the algorithm should be able to predict the life expectancy as accurately as possible.
+2. Technical and Software Requirements:-
+-The project will be built and deployed on IBM Cloud using IBM's Watson machine learning platform. 
+-Node-RED flow will be used to integrate the ML services.
+-One branch of the project will be built using Python 3.6 
+-The other branch will utilise IBM's Auto-AI software. 
+ 
+
+
+
+Project Deliverables:-
+
+1. The Jupyter notebooks for the algorithms 
+2. The final machine learning model 
+3. The deployed model on Watson. 
+ 
+
+
+Team:-
+
+Individual project by- Archit Sengupta
+3rd year student of Computer Science and Engineering at Manipal Institute of Technology.
