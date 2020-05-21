@@ -5,3 +5,6 @@ https://simple-website-dummywebxllc.eu-gb.mybluemix.net/
 
 IBM Git Repository for dummy website ->
 https://eu-gb.git.cloud.ibm.com/architsengupta/DummyWebsite
+
+IBM Git Repository for Node-Red Starter Application ->
+https://eu-gb.git.cloud.ibm.com/architsengupta/TestAppNodeRed
