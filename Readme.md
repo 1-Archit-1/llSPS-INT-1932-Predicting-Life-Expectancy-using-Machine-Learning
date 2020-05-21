@@ -2,3 +2,6 @@
 
 Dummy website deployed on ibm cloud -> 
 https://simple-website-dummywebxllc.eu-gb.mybluemix.net/
+
+IBM Git Repository for dummy website ->
+https://eu-gb.git.cloud.ibm.com/architsengupta/DummyWebsite
