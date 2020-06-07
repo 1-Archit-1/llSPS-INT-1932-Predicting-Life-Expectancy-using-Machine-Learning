@@ -16,8 +16,9 @@ Project Requirements:-
 Given a set of data including immunization factors, mortality factors, economic factors, social factors etc , the algorithm should be able to predict the life expectancy as accurately as possible.
 2. Technical and Software Requirements:-
 -The project will be built and deployed on IBM Cloud using IBM's Watson machine learning platform. 
--Node-RED flow will be used to integrate the ML services.
--One branch of the project will be built using Python 3.6 
+-Node-RED flow will be used to Deploy the ML services.
+-One branch of the project will be built using Python 3.6
+-Dependancies used - Pandas and Scikit-Learn
 -The other branch will utilise IBM's Auto-AI software. 
  
 
@@ -26,8 +27,8 @@ Given a set of data including immunization factors, mortality factors, economic 
 Project Deliverables:-
 
 1. The Jupyter notebooks for the algorithms 
-2. The final machine learning model 
-3. The deployed model on Watson. 
+2. The final machine learning model deployed on Watson
+3. The web-deployment using Node-Red. 
  
 
 
