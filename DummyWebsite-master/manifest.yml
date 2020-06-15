@@ -1,0 +1,7 @@
+---
+applications:
+- buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
+  host: simple-website-DummywebxLLC
+  name: simple-website-DummywebxLLC
+  memory: 64M
+  stack: cflinuxfs3
