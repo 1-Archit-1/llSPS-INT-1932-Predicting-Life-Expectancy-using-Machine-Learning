@@ -1,10 +1,8 @@
 # llSPS-INT-1932-Predicting-Life-Expectancy-using-Machine-Learning
 
+Project with SmartBridge in collaboration with IBM
+Learning models trained on datasets provided by the World Health Organisation.
 
-Project for internship with SmartBridge in collaboration with IBM  
-IBM Git Repository for dummy website ->
-https://eu-gb.git.cloud.ibm.com/architsengupta/DummyWebsite
-
-IBM Git Repository for Node-Red Starter Application ->
+IBM Git Repository for Node-Red Application ->
 https://eu-gb.git.cloud.ibm.com/architsengupta/TestAppNodeRed
 
